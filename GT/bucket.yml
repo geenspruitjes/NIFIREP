@@ -1,6 +1,0 @@
-flows:
-  a313fc91-8bec-46a8-b30e-0a1e624603e5: {ver: 1, file: flow_with_global_var.snapshot,
-    comments: Mail toegevoegd., author: anonymous, created: 1631293127790, flowName: flow_with_global_var,
-    flowDesc: ''}
-layoutVer: 1
-bucketId: c7b7188a-d921-4507-9efd-356dc4f839fa
