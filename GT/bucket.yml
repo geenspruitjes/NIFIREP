@@ -1,5 +1,6 @@
 flows:
-  7f47ccd3-8534-4e24-b5cf-f0a2c88b6759: {ver: 1, file: CICD.snapshot, comments: '',
-    author: anonymous, created: 1631100452314, flowName: CICD, flowDesc: ''}
+  a313fc91-8bec-46a8-b30e-0a1e624603e5: {ver: 1, file: flow_with_global_var.snapshot,
+    comments: Mail toegevoegd., author: anonymous, created: 1631293127790, flowName: flow_with_global_var,
+    flowDesc: ''}
 layoutVer: 1
-bucketId: 931cd616-6875-4501-99fc-9e313435fed4
+bucketId: c7b7188a-d921-4507-9efd-356dc4f839fa
