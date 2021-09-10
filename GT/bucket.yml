@@ -1,5 +1,8 @@
 flows:
   7f47ccd3-8534-4e24-b5cf-f0a2c88b6759: {ver: 1, file: CICD.snapshot, comments: '',
     author: anonymous, created: 1631100452314, flowName: CICD, flowDesc: ''}
+  a717a4e7-f8c4-4d19-8f3f-dfce1578b1a6: {ver: 1, file: flow_with_global_var.snapshot,
+    comments: '', author: anonymous, created: 1631254122729, flowName: flow_with_global_var,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 931cd616-6875-4501-99fc-9e313435fed4
