@@ -1,6 +1,6 @@
 flows:
-  83d90916-7887-4711-85ef-bd88b1118c98: {ver: 1, file: flow_with_global_var.snapshot,
-    comments: Mail toegevoegd., author: anonymous, created: 1631296650367, flowName: flow_with_global_var,
+  83d90916-7887-4711-85ef-bd88b1118c98: {ver: 2, file: flow_with_global_var.snapshot,
+    comments: Mail toegevoegd., author: anonymous, created: 1631599943380, flowName: flow_with_global_var,
     flowDesc: ''}
 layoutVer: 1
 bucketId: c7b7188a-d921-4507-9efd-356dc4f839fa
